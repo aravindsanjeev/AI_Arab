@@ -1,0 +1,327 @@
+{
+	"ScreenSaverTime": 60,
+	"ScreenSaverTimeQuestion": 30,
+	"ScreenSaverAudioEn": "EN-DoyouhaveanotherQuestion",
+	"ScreenSaverAudioAr": "AR-DoyouhaveanotherQuestion",
+	"SeaSongName": "00-SeaSong",
+	"PassCode": 42796,
+	"Industries": [
+		{
+			"Index": 1,
+			"IndustryName": "Corporate Support Centre (CSC)",
+			"Questions": [
+				{
+					"QuestionNumber": 41,
+					"QuestionDescriptionEnglish": "Who is Naham?",
+					"QuestionDescriptionArabic": "التعريف بنهام؟",
+					"AnswerAudioFileNameEnglish": "Q41",
+					"AnswerAudioFileNameArabic": "Q41ARABIC"
+				},
+				{
+					"QuestionNumber": 1,
+					"QuestionDescriptionEnglish": "How can I contact PCFC Business Units?",
+					"QuestionDescriptionArabic": "كيف يمكنني التواصل مع الوحدات التنظيمية التابعة لمؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q1",
+					"AnswerAudioFileNameArabic": "Q1ARABIC"
+				},
+				{
+					"QuestionNumber": 2,
+					"QuestionDescriptionEnglish": "Where are the Locations of PCFC Customer Happiness Centres?",
+					"QuestionDescriptionArabic": "أين تقع مراكز إسعاد المتعاملين التابعة لمؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q2",
+					"AnswerAudioFileNameArabic": "Q2ARABIC"
+				},
+				{
+					"QuestionNumber": 3,
+					"QuestionDescriptionEnglish": "How can I apply for a job in PCFC?",
+					"QuestionDescriptionArabic": "كيف يمكنني التقديم على وظيفة في مؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q3",
+					"AnswerAudioFileNameArabic": "Q3ARABIC"
+				}
+			]
+		},
+		{
+			"Index": 2,
+			"IndustryName": "PCFC Security",
+			"Questions": [
+				{
+					"QuestionNumber": 25,
+					"QuestionDescriptionEnglish": "Who can register for Gate Pass from PCFC website?",
+					"QuestionDescriptionArabic": "من يمكنه التسجيل للحصول على تصريح دخول البوابة من خلال الموقع الإلكتروني لمؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q25",
+					"AnswerAudioFileNameArabic": "Q25ARABIC"
+				},
+				{
+					"QuestionNumber": 26,
+					"QuestionDescriptionEnglish": "Is there any restriction on the number of gate passes issued per company?",
+					"QuestionDescriptionArabic": "هل هناك أي قيود بشأن عدد التصاريح الصادرة لكل شركة؟",
+					"AnswerAudioFileNameEnglish": "Q26",
+					"AnswerAudioFileNameArabic": "Q26ARABIC"
+				},
+				{
+					"QuestionNumber": 27,
+					"QuestionDescriptionEnglish": "What are the different types of gate passes?",
+					"QuestionDescriptionArabic": "ما هي الأنواع المختلفة لتصاريح دخول البوابات؟",
+					"AnswerAudioFileNameEnglish": "Q27",
+					"AnswerAudioFileNameArabic": "Q27ARABIC"
+				},
+				{
+					"QuestionNumber": 28,
+					"QuestionDescriptionEnglish": "What are the charges per gate pass?",
+					"QuestionDescriptionArabic": "ما هي الرسوم المطلوبة لكل تصريح دخول بوابة؟",
+					"AnswerAudioFileNameEnglish": "Q28",
+					"AnswerAudioFileNameArabic": "Q28ARABIC"
+				},
+				{
+					"QuestionNumber": 29,
+					"QuestionDescriptionEnglish": "How long will the approval take once the gate pass request is raised to PCFC?",
+					"QuestionDescriptionArabic": "ما هي المدة المستغرقة للحصول على الموافقة في حال رفع طلب عن طريق الموقع الإكتروني لمؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q29",
+					"AnswerAudioFileNameArabic": "Q29ARABIC"
+				},
+				{
+					"QuestionNumber": 30,
+					"QuestionDescriptionEnglish": "Can I request for a single gate pass to visit multiple host companies?",
+					"QuestionDescriptionArabic": "هل يمكنني طلب تصريح واحد لزيارة عدة شركات مضيفة؟",
+					"AnswerAudioFileNameEnglish": "Q30",
+					"AnswerAudioFileNameArabic": "Q30ARABIC"
+				},
+				{
+					"QuestionNumber": 31,
+					"QuestionDescriptionEnglish": "How can Host companies located within PCFC areas apply for entry pass for their visitors or customers?",
+					"QuestionDescriptionArabic": "كيف يمكن للشركات المضيفة الموجودة في مناطق مؤسسة الموانئ والجمارك والمنطقة الحرة التقدم بطلب للحصول على تصريح دخول لزوارها أو عملائها؟",
+					"AnswerAudioFileNameEnglish": "Q31",
+					"AnswerAudioFileNameArabic": "Q31ARABIC"
+				},
+				{
+					"QuestionNumber": 32,
+					"QuestionDescriptionEnglish": "How can External companies apply for an entry pass for their employees to get in PCFC areas?",
+					"QuestionDescriptionArabic": "كيف يمكن للشركات الخارجية التقدم للحصول على تصريح دخول لموظفيها للدخول إلى مناطق مؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q32",
+					"AnswerAudioFileNameArabic": "Q32ARABIC"
+				},
+				{
+					"QuestionNumber": 33,
+					"QuestionDescriptionEnglish": "As JAFZA Companies, can we apply for gate pass from our Dubai Trade Login for JAFZA Services?",
+					"QuestionDescriptionArabic": "بصفتنا شركات في المنطقة الحرة بجبل علي (جافزا)، هل يمكننا التقدم بطلب للحصول على تصريح البوابة عبر نافذة دبي التجارية للحصول على خدمات جافزا؟",
+					"AnswerAudioFileNameEnglish": "Q33",
+					"AnswerAudioFileNameArabic": "Q33ARABIC"
+				},
+				{
+					"QuestionNumber": 34,
+					"QuestionDescriptionEnglish": "Is it possible for a JAFZA Host Company to apply for a gate pass request for Al Hamriya or Rashid Port?",
+					"QuestionDescriptionArabic": "هل يمكن لشركة مضيفة في جافزا التقدم بطلب للحصول على تصريح دخول لميناء الحمرية أو ميناء راشد؟",
+					"AnswerAudioFileNameEnglish": "Q34",
+					"AnswerAudioFileNameArabic": "Q34ARABIC"
+				},
+				{
+					"QuestionNumber": 35,
+					"QuestionDescriptionEnglish": "What is the validity of a permanent Pass?",
+					"QuestionDescriptionArabic": "ما هي مدة صلاحية التصريح الدائم؟",
+					"AnswerAudioFileNameEnglish": "Q35",
+					"AnswerAudioFileNameArabic": "Q35ARABIC"
+				},
+				{
+					"QuestionNumber": 36,
+					"QuestionDescriptionEnglish": "What is the validity of a Business meeting Pass?",
+					"QuestionDescriptionArabic": "ما هي صلاحية تصريح اجتماع الأعمال؟",
+					"AnswerAudioFileNameEnglish": "Q36",
+					"AnswerAudioFileNameArabic": "Q36ARABIC"
+				},
+				{
+					"QuestionNumber": 37,
+					"QuestionDescriptionEnglish": "What are the validities of Training Pass?",
+					"QuestionDescriptionArabic": "ما هي فترة صلاحية تصريح التدريب؟",
+					"AnswerAudioFileNameEnglish": "Q37",
+					"AnswerAudioFileNameArabic": "Q37ARABIC"
+				},
+				{
+					"QuestionNumber": 38,
+					"QuestionDescriptionEnglish": "What are the validities of Tools and Equipment Pass?",
+					"QuestionDescriptionArabic": "ما هي مدة صلاحية الدخول بالنسبة للأدوات والمعدات؟",
+					"AnswerAudioFileNameEnglish": "Q38",
+					"AnswerAudioFileNameArabic": "Q38ARABIC"
+				}
+			]
+		},
+		{
+			"Index": 3,
+			"IndustryName": "Department of Planning & Development - Trakhees",
+			"Questions": [
+				{
+					"QuestionNumber": 11,
+					"QuestionDescriptionEnglish": "What services does the Ports and Maritime section provide?",
+					"QuestionDescriptionArabic": "ما هي الخدمات التي يقدمها قسم الموانئ والنقل البحري؟",
+					"AnswerAudioFileNameEnglish": "Q11",
+					"AnswerAudioFileNameArabic": "Q11ARABIC"
+				},
+				{
+					"QuestionNumber": 13,
+					"QuestionDescriptionEnglish": "How to contact EHS Ports and Maritime section in PCFC?",
+					"QuestionDescriptionArabic": "كيف يتم التواصل مع قسم الموانئ والنقل البحري بمؤسسة الموانئ والجمارك والمنطقة الحرة؟",
+					"AnswerAudioFileNameEnglish": "Q13",
+					"AnswerAudioFileNameArabic": "Q13ARABIC"
+				},
+				{
+					"QuestionNumber": 12,
+					"QuestionDescriptionEnglish": "What are the functionalities of EHS Ports and Maritime section?",
+					"QuestionDescriptionArabic": "ما هي اختصاصات قسم الموانئ والنقل البحرى؟",
+					"AnswerAudioFileNameEnglish": "Q12",
+					"AnswerAudioFileNameArabic": "Q12ARABIC"
+				},
+				{
+					"QuestionNumber": 14,
+					"QuestionDescriptionEnglish": "What are EHS Ports and Maritime section requirements for Dangerous Goods?",
+					"QuestionDescriptionArabic": "ما هي متطلبات فحص المواد الخطرة؟",
+					"AnswerAudioFileNameEnglish": "Q14",
+					"AnswerAudioFileNameArabic": "Q14ARABIC"
+				},
+				{
+					"QuestionNumber": 15,
+					"QuestionDescriptionEnglish": "What are the restricted activities within the Ports jurisdictions?",
+					"QuestionDescriptionArabic": "ما هي الأنشطة المحظورة في داخل حدود الموانئ؟  ",
+					"AnswerAudioFileNameEnglish": "Q15",
+					"AnswerAudioFileNameArabic": "Q15ARABIC"
+				},
+				{
+					"QuestionNumber": 16,
+					"QuestionDescriptionEnglish": "What are the steps to follow towards obtaining Operation Fitness Certificate (OFC)?",
+					"QuestionDescriptionArabic": " ؟(OFC)ما هي الخطوات التي يجب اتباعها للحصول على شهادة مطابقة العمليات الصناعية",
+					"AnswerAudioFileNameEnglish": "Q16",
+					"AnswerAudioFileNameArabic": "Q16ARABIC"
+				},
+				{
+					"QuestionNumber": 17,
+					"QuestionDescriptionEnglish": "How can I renew my Operation Fitness Certificate (OFC)?",
+					"QuestionDescriptionArabic": "؟(OFC)كيف يمكن تجديد شهادة مطابقة العمليات الصناعية ",
+					"AnswerAudioFileNameEnglish": "Q17",
+					"AnswerAudioFileNameArabic": "Q17ARABIC"
+				},
+				{
+					"QuestionNumber": 18,
+					"QuestionDescriptionEnglish": "What is an Environmental Impact Assessment (EIA) and its significance?",
+					"QuestionDescriptionArabic": "ما هو تقييم الأثر البيئي وأهميته؟",
+					"AnswerAudioFileNameEnglish": "Q18",
+					"AnswerAudioFileNameArabic": "Q18ARABIC"
+				},
+				{
+					"QuestionNumber": 19,
+					"QuestionDescriptionEnglish": "Are there any fees to be paid prior to EIA, Environmental Permit NOC or Prequalification or Accreditation approval?",
+					"QuestionDescriptionArabic": "هل هناك أي رسوم يجب دفعها قبل الحصول على التصريح البيئي أو شهادة عدم الممانعة البيئية أو الموافقة على التأهيل المسبق أو الاعتماد؟",
+					"AnswerAudioFileNameEnglish": "Q19",
+					"AnswerAudioFileNameArabic": "Q19ARABIC"
+				},
+				{
+					"QuestionNumber": 20,
+					"QuestionDescriptionEnglish": "How long is the validity of permits issued by the Department of Planning and Development?",
+					"QuestionDescriptionArabic": "ما هي مدة صلاحية التصاريح التي تصدرها دائرة التخطيط والتطوير- تراخيص؟",
+					"AnswerAudioFileNameEnglish": "Q20",
+					"AnswerAudioFileNameArabic": "Q20ARABIC"
+				},
+				{
+					"QuestionNumber": 21,
+					"QuestionDescriptionEnglish": "What is the validity of the Crane or Gas Cylinder Pass?",
+					"QuestionDescriptionArabic": "ما هي فترة صلاحية مرور الرافعة أو أسطوانة الغاز؟",
+					"AnswerAudioFileNameEnglish": "Q21",
+					"AnswerAudioFileNameArabic": "Q21ARABIC"
+				},
+				{
+					"QuestionNumber": 22,
+					"QuestionDescriptionEnglish": "Where can I acquire the services for consultancy reports?",
+					"QuestionDescriptionArabic": "من أين يمكنني الحصول على تقارير الخدمات الاستشارية؟",
+					"AnswerAudioFileNameEnglish": "Q22",
+					"AnswerAudioFileNameArabic": "Q22ARABIC"
+				},
+				{
+					"QuestionNumber": 23,
+					"QuestionDescriptionEnglish": "How can I dispose the recyclable wastes or scrap materials?",
+					"QuestionDescriptionArabic": "كيف يمكنني التخلص من النفايات والمواد القابلة لإعادة التدوير؟",
+					"AnswerAudioFileNameEnglish": "Q23",
+					"AnswerAudioFileNameArabic": "Q23ARABIC"
+				},
+				{
+					"QuestionNumber": 24,
+					"QuestionDescriptionEnglish": " How can I acquire industrial waste disposal services at special areas affiliated with PCFC?",
+					"QuestionDescriptionArabic": "كيف يمكنني التخلص من النفايات الصناعية الموجودة في مناطق التطوير الخاصة التابعة للمؤسسة؟",
+					"AnswerAudioFileNameEnglish": "Q24",
+					"AnswerAudioFileNameArabic": "Q24ARABIC"
+				}
+			]
+		},
+		{
+			"Index": 4,
+			"IndustryName": "Dubai Maritime Authority (DMA)",
+			"Questions": [
+				{
+					"QuestionNumber": 4,
+					"QuestionDescriptionEnglish": "How can I register a Marine Craft?",
+					"QuestionDescriptionArabic": "كيف يمكنني تسجيل وسيلة بحرية؟",
+					"AnswerAudioFileNameEnglish": "Q4",
+					"AnswerAudioFileNameArabic": "Q4ARABIC"
+				},
+				{
+					"QuestionNumber": 5,
+					"QuestionDescriptionEnglish": "Do I need to register my Sailing / Rowing boat?",
+					"QuestionDescriptionArabic": "هل يجب تسجيل قارب التجديف أو القارب الشراعي؟",
+					"AnswerAudioFileNameEnglish": "Q5",
+					"AnswerAudioFileNameArabic": "Q5ARABIC"
+				},
+				{
+					"QuestionNumber": 6,
+					"QuestionDescriptionEnglish": "How can I issue / renew a Marine Excursions Driving license or Marine Crew license?",
+					"QuestionDescriptionArabic": "كيف يمكنني إصدار/ تجديد رخصة قيادة وسيلة بحرية للنزهة أو رخصة طاقم بحري؟",
+					"AnswerAudioFileNameEnglish": "Q6",
+					"AnswerAudioFileNameArabic": "Q6ARABIC"
+				},
+				{
+					"QuestionNumber": 7,
+					"QuestionDescriptionEnglish": " How can I obtain an NOC letter to issue or renew a trade license for Marine Activities Zone company?",
+					"QuestionDescriptionArabic": "كيف يمكنني الحصول على رسالة عدم ممانعة لإصدار/ تجديد رخصة تجارية ذات نشاط ملاحي؟",
+					"AnswerAudioFileNameEnglish": "Q7",
+					"AnswerAudioFileNameArabic": "Q7ARABIC"
+				},
+				{
+					"QuestionNumber": 8,
+					"QuestionDescriptionEnglish": "To whom shall I report any pollution or oil spills in Dubai waters?",
+					"QuestionDescriptionArabic": "كيف يمكنني الإبلاغ عن التلوث أو تسرب الزيوت والنفط في مياه دبي؟",
+					"AnswerAudioFileNameEnglish": "Q8",
+					"AnswerAudioFileNameArabic": "Q8ARABIC"
+				},
+				{
+					"QuestionNumber": 9,
+					"QuestionDescriptionEnglish": "Where can I find inspection checklist for Marine Excursions / Commercial Marine Craft?",
+					"QuestionDescriptionArabic": "أين يمكنني إيجاد قائمة بمتطلبات فحص وسيلة النزهة البحرية/ التجارية؟",
+					"AnswerAudioFileNameEnglish": "Q9",
+					"AnswerAudioFileNameArabic": "Q9ARABIC"
+				},
+				{
+					"QuestionNumber": 10,
+					"QuestionDescriptionEnglish": "How can I submit a Violation Grievance request?",
+					"QuestionDescriptionArabic": "كيف يمكنني تقديم طلب تظلم أو اعتراض على مخالفة؟",
+					"AnswerAudioFileNameEnglish": "Q10",
+					"AnswerAudioFileNameArabic": "Q10ARABIC"
+				}
+			]
+		},
+		{
+			"Index": 5,
+			"IndustryName": "Marine Agency for Wooden Dhows",
+			"Questions": [
+				{
+					"QuestionNumber": 39,
+					"QuestionDescriptionEnglish": "What is the procedure to register in NAU App?",
+					"QuestionDescriptionArabic": "؟NAU ما هي متطلبات التسجيل في تطبيق ناو",
+					"AnswerAudioFileNameEnglish": "Q39",
+					"AnswerAudioFileNameArabic": "Q39ARABIC"
+				},
+				{
+					"QuestionNumber": 40,
+					"QuestionDescriptionEnglish": "My dhow is at the anchorage, when can it enter?",
+					"QuestionDescriptionArabic": "سفينتي الخشبية متواجدة عند المرسى، متى يمكنها الدخول؟",
+					"AnswerAudioFileNameEnglish": "Q40",
+					"AnswerAudioFileNameArabic": "Q40ARABIC"
+				}
+			]
+		}
+	]
+}
